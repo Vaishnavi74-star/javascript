@@ -1,4 +1,4 @@
-# Airbnb JavaScript Style Guide() {
+# Airbnb JavaScript Style Guide() Imp concepts{
 
 *A mostly reasonable approach to JavaScript*
 
